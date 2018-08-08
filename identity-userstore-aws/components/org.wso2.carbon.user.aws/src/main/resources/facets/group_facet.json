@@ -1,0 +1,14 @@
+{
+  "Attributes": [
+    {
+      "AttributeDefinition": {
+        "IsImmutable": true,
+        "Type": "STRING"
+      },
+      "Name": "Name",
+      "RequiredBehavior": "REQUIRED_ALWAYS"
+    }
+  ],
+  "Name": "GROUP",
+  "ObjectType": "NODE"
+}

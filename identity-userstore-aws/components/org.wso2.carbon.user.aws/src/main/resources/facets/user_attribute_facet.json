@@ -1,0 +1,22 @@
+{
+  "Attributes": [
+    {
+      "AttributeDefinition": {
+        "IsImmutable": false,
+        "Type": "STRING"
+      },
+      "Name": "ATTR_NAME",
+      "RequiredBehavior": "REQUIRED_ALWAYS"
+    },
+    {
+      "AttributeDefinition": {
+        "IsImmutable": false,
+        "Type": "STRING"
+      },
+      "Name": "ATTR_VALUE",
+      "RequiredBehavior": "REQUIRED_ALWAYS"
+    }
+  ],
+  "Name": "UM_USER_ATTRIBUTE",
+  "ObjectType": "NODE"
+}

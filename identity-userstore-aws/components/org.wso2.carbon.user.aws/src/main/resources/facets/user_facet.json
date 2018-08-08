@@ -1,0 +1,62 @@
+{
+  "Attributes": [
+    {
+      "AttributeDefinition": {
+        "IsImmutable": false,
+        "Type": "STRING"
+      },
+      "Name": "USER_NAME",
+      "RequiredBehavior": "REQUIRED_ALWAYS"
+    },
+    {
+      "AttributeDefinition": {
+        "IsImmutable": false,
+        "Type": "STRING"
+      },
+      "Name": "USER_PASSWORD",
+      "RequiredBehavior": "REQUIRED_ALWAYS"
+    },
+    {
+      "AttributeDefinition": {
+        "IsImmutable": false,
+        "Type": "STRING"
+      },
+      "Name": "SALT_VALUE",
+      "RequiredBehavior": "REQUIRED_ALWAYS"
+    },
+    {
+      "AttributeDefinition": {
+        "IsImmutable": false,
+        "Type": "STRING"
+      },
+      "Name": "REQUIRE_CHANGE",
+      "RequiredBehavior": "NOT_REQUIRED"
+    },
+    {
+      "AttributeDefinition": {
+        "IsImmutable": false,
+        "Type": "STRING"
+      },
+      "Name": "CHANGED_TIME",
+      "RequiredBehavior": "NOT_REQUIRED"
+    },
+    {
+      "AttributeDefinition": {
+        "IsImmutable": false,
+        "Type": "STRING"
+      },
+      "Name": "ROLES",
+      "RequiredBehavior": "NOT_REQUIRED"
+    },
+    {
+      "AttributeDefinition": {
+        "IsImmutable": false,
+        "Type": "STRING"
+      },
+      "Name": "PROFILES",
+      "RequiredBehavior": "NOT_REQUIRED"
+    }
+  ],
+  "Name": "UM_USER",
+  "ObjectType": "NODE"
+}

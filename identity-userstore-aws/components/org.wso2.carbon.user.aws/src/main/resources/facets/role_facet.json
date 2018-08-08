@@ -1,0 +1,22 @@
+{
+  "Attributes": [
+    {
+      "AttributeDefinition": {
+        "IsImmutable": false,
+        "Type": "STRING"
+      },
+      "Name": "ROLE_NAME",
+      "RequiredBehavior": "REQUIRED_ALWAYS"
+    },
+    {
+      "AttributeDefinition": {
+        "IsImmutable": false,
+        "Type": "STRING"
+      },
+      "Name": "USERS",
+      "RequiredBehavior": "NOT_REQUIRED"
+    }
+  ],
+  "Name": "UM_ROLE",
+  "ObjectType": "NODE"
+}

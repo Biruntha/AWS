@@ -1,3 +1,3 @@
-# identity-userstore-cassandra
+# identity-userstore-aws
 
-This repository contains the modules related to cassandra userstore feature
+This repository contains the modules related to aws cloud directory userstore feature

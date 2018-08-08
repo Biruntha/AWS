@@ -1,0 +1,14 @@
+{
+  "Attributes": [
+    {
+      "AttributeDefinition": {
+        "IsImmutable": false,
+        "Type": "STRING"
+      },
+      "Name": "PROFILE_NAME",
+      "RequiredBehavior": "REQUIRED_ALWAYS"
+    }
+  ],
+  "Name": "UM_PROFILE",
+  "ObjectType": "NODE"
+}
